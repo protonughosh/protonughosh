@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @protonughosh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on # 💫 About Me:
+💫 About Me:
 Hard worker experienced student in problem-solving, service, and time<br>management. Aiming to leverage my abilities to successfully fill the<br>intern role at your company.
 
 
