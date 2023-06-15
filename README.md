@@ -1,6 +1,5 @@
 💫 About Me:
-Hard worker experienced student in problem-solving, service, and time<br>management. Aiming to leverage my abilities to successfully fill the<br>intern role at your company.
-
+I am excited to apply for the intern role at your company and I am confident that my strong work ethic, experience, and skills make me a well-suited candidate for the position. I am eager to leverage my abilities to contribute to the success of your team.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Protonu Ghosh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Protonu Ghosh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Protonughosh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@emotybrainguy) 
