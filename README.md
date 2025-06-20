@@ -23,7 +23,7 @@ As a PAT at Cognizant and a 5-star rated programmer on HackerRank, I bring a sol
 ---
 [![](https://visitcount.itsvg.in/api?id=protonughosh&icon=2&color=7)](https://visitcount.itsvg.in)
 ...
-- 📫 How to reach me ...
+
 
 <!---
 protonughosh/protonughosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
